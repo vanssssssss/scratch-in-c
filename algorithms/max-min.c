@@ -1,3 +1,4 @@
+//maxmin using divide and conquer
 #include<stdio.h>
 
 int arr[20];
