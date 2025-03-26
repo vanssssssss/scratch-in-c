@@ -2,7 +2,8 @@
 
 int parents[20];
 
-void main(){
+void main()
+{
     void munion(int i, int j);
     int find(int i);
     int n,ch,i,j,p,q;
